@@ -122,11 +122,3 @@ Complete the following tasks:
 - Commit your changes to Git
 
 ---
-
-# 📦 Commit Message
-
-```bash
-feat(setup): initialize first Next.js application
-```
-
----

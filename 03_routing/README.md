@@ -87,11 +87,3 @@ feat(routing): add basic file-based routing pages
 ```
 
 ---
-
-# ✅ What's Next?
-
-Next, we'll learn **Dynamic Routes**, where a single page can handle multiple URLs such as:
-
-- `/products/1`
-- `/products/2`
-- `/products/100`
